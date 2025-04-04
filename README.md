@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Eberton Junior
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 
 
