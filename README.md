@@ -2,6 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F763&center=true&width=450&lines=Olá!+Me+chamo+Eberton%F0%9F%91%8B;Programador+Fullstack!;Em+busca+de+evolução+diária)](https://git.io/typing-svg)
 
 
 <p align="left">
